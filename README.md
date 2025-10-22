@@ -3,7 +3,7 @@
 🌟 *Tech Explorer | Blogger | Future Developer*
 
 💻 I love learning about **Technology, AI, and Web Development**  
-✍️ I share ideas on [my blog](https://yourbloglink.com)  
+✍️ I share ideas on [my blog](https://geekyguy4u.blogspot.com)  
 🌱 Currently learning: **Python**, **HTML/CSS**, and **JavaScript**  
 
 ---
@@ -17,15 +17,15 @@
 ---
 
 ### 📊 GitHub Stats
-![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekyguy4u&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyguy4u&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geekyguy4u&theme=tokyonight)
 
 ---
 
 ### 💬 Let's Connect
-📧 **Email:** yourname@email.com  
-🌐 **Website:** [yourbloglink.com](https://yourbloglink.com)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+📧 **Email:** admin@geekyguy4u.com
+🌐 **Website:** [geekyguy4u.blogpost.com](https://geekyguy4u.blogspot.com/)  
+🐦 **Twitter:** [@geekyguy4u](https://twitter.com/geekyguy4u)
 
 > “Code. Learn. Grow. Repeat.” ✨
